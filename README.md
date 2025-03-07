@@ -1,12 +1,12 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Hello!&fontColor=ffffff&fontSize=60&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Jaemin%20Hong&fontColor=ffffff&fontSize=50&fontAlign=75&fontAlignY=40&color=gradient&customColorList=18"/>
 
 ### 👋 Introduction
 
-I'm majoring in Industrial Engineering and interested in exploring Large Language Models.
+Hi there!<br>I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
 
-![Jaemin Hong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&theme=default&include_all_commits=true)
+![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&theme=default&include_all_commits=true)
 <br>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeminii01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
@@ -28,7 +28,7 @@ I'm majoring in Industrial Engineering and interested in exploring Large Languag
 
 ### 🤗 Contact me
 
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <!--
 **geminii01/geminii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
