@@ -1,12 +1,12 @@
 <div align=center>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Jaemin%20Hong&fontColor=ffffff&fontSize=50&fontAlign=75&fontAlignY=40&color=gradient&customColorList=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Hi%20there!&fontColor=ffffff&fontSize=45&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
 
 ### 👋 Introduction
 
-Hi there!<br>I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
+I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
 
-![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&theme=default&include_all_commits=true)
+![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&include_all_commits=true&show_icons=true&theme=default#gh-light-mode-only)
 <br>![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeminii01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 <br>
