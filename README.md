@@ -28,7 +28,7 @@ I'm majoring in **_Industrial Engineering_** and interested in exploring **_Larg
 
 ### 🤗 Contact me
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geminii01/)
 
 <!--
 **geminii01/geminii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
