@@ -8,8 +8,6 @@ I'm majoring in **_Industrial Engineering_** and interested in exploring **_Larg
 
 ![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&include_all_commits=true&show_icons=true&theme=default#gh-light-mode-only)
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeminii01%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
 <br>
 
 ### 📚 Skills
