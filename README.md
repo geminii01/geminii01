@@ -6,7 +6,7 @@
 
 I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
 
-![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&include_all_commits=true&show_icons=true&theme=default#gh-light-mode-only)
+![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&include_all_commits=true)
 
 <br>
 
