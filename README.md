@@ -1,11 +1,7 @@
-<div align=center>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Hi%20there!&fontColor=ffffff&fontSize=45&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
 
 ### 👋 Introduction
 Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
-
-![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&include_all_commits=true)
 
 <br>
 
@@ -19,7 +15,10 @@ Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geminii01/)
 
+![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&include_all_commits=true)
 <!--
+<div align=center>
+</div>
 **geminii01/geminii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -33,5 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-</div>
