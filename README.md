@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&text=Hi%20there!&fontColor=ffffff&fontSize=45&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&fontColor=ffffff&fontSize=45&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
 
 ### 👋 Introduction
 Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
@@ -19,6 +19,7 @@ Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** 
 <!--
 <div align=center>
 </div>
+&text=Hi%20there!
 **geminii01/geminii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
