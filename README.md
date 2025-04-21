@@ -5,6 +5,8 @@
 ### 👋 Introduction
 Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
 
+#### 👩🏻‍💻 Contributing to "[LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial)" since 2025.01
+
 <br>
 
 ### 📚 Skills
@@ -13,7 +15,7 @@ Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** 
 
 <br>
 
-### 🤗 Contact me
+### 📫 Contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geminii01/)
 
