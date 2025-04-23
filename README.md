@@ -1,11 +1,8 @@
-<div align=center>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&fontColor=ffffff&fontSize=45&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
-
 ### 👋 Introduction
-Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** and interested in exploring **_Large Language Models_**.
+Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** and interested in **_Large Language Models_**.
 
-#### 👩🏻‍💻 Contributing to "[LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial)" since 2025.01
+- 👩🏻‍💻 Contributing to "**[LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial)**" (Since Jan 2025)
+- 📚 Certified in "**K-Digital Training Course: Upstage AI Lab**" (Dec 2023 – Jul 2024)
 
 <br>
 
@@ -21,10 +18,13 @@ Hello, my name is Jae-min Hong.<br>I'm majoring in **_Industrial Engineering_** 
 
 ![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&include_all_commits=true)
 
-</div>
 <!--
 <div align=center>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=180&fontColor=ffffff&fontSize=45&fontAlign=85&fontAlignY=40&color=gradient&customColorList=18"/>
+
 </div>
+
 &text=Hi%20there!
 **geminii01/geminii01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
