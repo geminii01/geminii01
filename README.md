@@ -4,7 +4,7 @@ Hello, my name is **Jae-min Hong**.<br>I majored in **_Industrial Engineering_**
 - 📚 Certified in [5-day Gen AI Intensive Course with Google](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1) (Apr 2025)
 - 👩🏻‍💻 Contributing to [LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial) (Since Jan 2025)
 - 📚 Certified in K-Digital Training Course: Upstage AI Lab (Dec 2023 – Jul 2024)
-- 🎓 B.S. in Industrial Engineering from University of Ulsan (2020 – 2024)
+- 🎓 B.S. in Industrial Engineering from University of Ulsan (Mar 2020 – Feb 2024)
 
 <br>
 
