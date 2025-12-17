@@ -1,6 +1,7 @@
 ### 👋 Introduction
 Hello, my name is **Jae-min Hong**.<br>I majored in **_Industrial Engineering_** and interested in **_Large Language Models_**.
 
+- ✨ Upstage AI Ambassador (Sep 2025 - Dec 2025)
 - 📚 Certified in [5-day Gen AI Intensive Course with Google](https://www.kaggle.com/competitions/gen-ai-intensive-course-capstone-2025q1) (Apr 2025)
 - 👩🏻‍💻 Contributor, [LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial) (Jan 2025 - Mar 2025)
 - 📚 Certified in K-Digital Training Course: Upstage AI Lab (Dec 2023 – Jul 2024)
