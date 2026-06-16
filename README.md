@@ -16,11 +16,9 @@ Hello, my name is **Jae-min Hong**.<br>I majored in **_Industrial Engineering_**
 
 <br>
 
-<!--
 ### 📫 Contact me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geminii01/)
--->
 
 ![geminii01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=geminii01&show_icons=true&include_all_commits=true)
 
