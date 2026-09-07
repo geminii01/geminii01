@@ -7,7 +7,7 @@ Hello, my name is **Jae-min Hong**.<br>I majored in **_Industrial Management Eng
 - [2025.01 - 2025.03] Contributor | [LangChain-OpenTutorial](https://github.com/LangChain-OpenTutorial)
 - [2024.09 - 2024.11] Completed | 미래내일일경험: (주)아이엠뱅크 생성형 AI의 효율적인 운영관리를 위한 MLOps 플랫폼 제안
 - [2023.12 - 2024.07] Completed | K-Digital Training Course: Upstage AI Lab
-- [2020.03 - 2024.02] B.S. in Industrial Management Engineering, University of Ulsan
+- [2020.03 - 2024.02] B.S. in Industrial Management Engineering
 
 <!--
 <br>
